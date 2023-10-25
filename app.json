@@ -3,6 +3,7 @@
     "name": "pfm",
     "slug": "pfm",
     "version": "1.0.0",
+    "scheme": "pfm",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
